@@ -1,1 +1,13 @@
 this is third session
+To add files into repository:
+  1. Create a textedit doc
+  2. Git status
+  3. Git add *
+  4. Git status
+  5. Git commit -m "comment"
+  6. Git push origin master
+  
+  Git status: Shows status of any additions/modifications/deletions
+  Git add *: Adds files to local machine
+  Git commit -m "comment": commits to local repository
+  Git push origin master: pushs to Github account
