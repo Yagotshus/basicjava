@@ -1,0 +1,37 @@
+int (14,10) - numbers without decimals
+
+String(“Sushrut”)
+
+double (24.50,2.5)- numbers with decimals
+
+
+IF STATEMENTS
+
+int age = 13;
+
+if(age > 15){
+	System.out.println(“You can get a permit”);
+}else if(age == 15){
+	System.out.println(“Congrats. Today is the day you can apply for a permit.”);
+}else{
+System.out.println(“Sorry, please wait till you are 15”);
+}
+
+
+FOR LOOPS
+
+Example:
+
+int i;
+
+for(i=0 ; 1<10 ; i++){
+	System.out.println(“running: “ + (i+1));
+}
+
+
+Syntax:
+
+for( initialization ; condition ; increment){
+	*some task*;
+}
+ 
