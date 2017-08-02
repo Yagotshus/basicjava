@@ -1,4 +1,11 @@
 this is third session
+
+To clone repo onto local
+mkdir gitclass
+cd gitclass
+git clone *url*
+
+
 To add files into repository:
   1. Create a textedit doc
   2. Git status
